@@ -1,1 +1,1 @@
-Learn some git.
+Hello GitHub!
